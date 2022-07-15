@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-14T21:45:08 PDT" name="Default suite" finished-at="2022-07-14T21:45:22 PDT" duration-ms="13407">
+    <groups>
+    </groups>
+    <test started-at="2022-07-14T21:45:08 PDT" name="Default test" finished-at="2022-07-14T21:45:22 PDT" duration-ms="13407">
+      <class name="selenium.MouseActionsTest">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:selenium.MouseActionsTest@1c93084c]" started-at="2022-07-14T21:45:08 PDT" name="initializeDriver" finished-at="2022-07-14T21:45:20 PDT" duration-ms="11340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method is-config="true" signature="initializeAction()[pri:0, instance:selenium.MouseActionsTest@1c93084c]" started-at="2022-07-14T21:45:20 PDT" name="initializeAction" finished-at="2022-07-14T21:45:20 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeAction -->
+        <test-method signature="clickOnLink()[pri:0, instance:selenium.MouseActionsTest@1c93084c]" started-at="2022-07-14T21:45:20 PDT" name="clickOnLink" finished-at="2022-07-14T21:45:20 PDT" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLink -->
+        <test-method is-config="true" signature="initializeAction()[pri:0, instance:selenium.MouseActionsTest@1c93084c]" started-at="2022-07-14T21:45:20 PDT" name="initializeAction" finished-at="2022-07-14T21:45:20 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeAction -->
+        <test-method signature="clickTextBox()[pri:0, instance:selenium.MouseActionsTest@1c93084c]" started-at="2022-07-14T21:45:20 PDT" name="clickTextBox" finished-at="2022-07-14T21:45:21 PDT" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickTextBox -->
+        <test-method is-config="true" signature="initializeAction()[pri:0, instance:selenium.MouseActionsTest@1c93084c]" started-at="2022-07-14T21:45:21 PDT" name="initializeAction" finished-at="2022-07-14T21:45:21 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeAction -->
+        <test-method signature="dragAndDrop()[pri:0, instance:selenium.MouseActionsTest@1c93084c]" started-at="2022-07-14T21:45:21 PDT" name="dragAndDrop" finished-at="2022-07-14T21:45:21 PDT" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDrop -->
+        <test-method signature="enterMouseBox()[pri:0, instance:selenium.MouseActionsTest@1c93084c]" started-at="2022-07-14T21:45:21 PDT" name="enterMouseBox" finished-at="2022-07-14T21:45:21 PDT" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterMouseBox -->
+        <test-method is-config="true" signature="initializeAction()[pri:0, instance:selenium.MouseActionsTest@1c93084c]" started-at="2022-07-14T21:45:21 PDT" name="initializeAction" finished-at="2022-07-14T21:45:21 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeAction -->
+        <test-method is-config="true" signature="initializeAction()[pri:0, instance:selenium.MouseActionsTest@1c93084c]" started-at="2022-07-14T21:45:21 PDT" name="initializeAction" finished-at="2022-07-14T21:45:21 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeAction -->
+        <test-method signature="mouseHover()[pri:0, instance:selenium.MouseActionsTest@1c93084c]" started-at="2022-07-14T21:45:21 PDT" name="mouseHover" finished-at="2022-07-14T21:45:21 PDT" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseHover -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:selenium.MouseActionsTest@1c93084c]" started-at="2022-07-14T21:45:21 PDT" name="closeDown" finished-at="2022-07-14T21:45:22 PDT" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+      </class> <!-- selenium.MouseActionsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

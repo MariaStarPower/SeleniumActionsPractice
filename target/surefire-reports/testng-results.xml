@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-15T11:12:23 PDT" name="Suite" finished-at="2022-07-15T11:12:48 PDT" duration-ms="24689">
+    <groups>
+    </groups>
+    <test started-at="2022-07-15T11:12:23 PDT" name="Mouse Actions Test" finished-at="2022-07-15T11:12:37 PDT" duration-ms="13943">
+      <class name="selenium.MouseActionsTest">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:selenium.MouseActionsTest@1f0f1111]" started-at="2022-07-15T11:12:23 PDT" name="initializeDriver" finished-at="2022-07-15T11:12:35 PDT" duration-ms="11951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method is-config="true" signature="initializeAction()[pri:0, instance:selenium.MouseActionsTest@1f0f1111]" started-at="2022-07-15T11:12:35 PDT" name="initializeAction" finished-at="2022-07-15T11:12:35 PDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeAction -->
+        <test-method signature="clickOnLink()[pri:0, instance:selenium.MouseActionsTest@1f0f1111]" started-at="2022-07-15T11:12:35 PDT" name="clickOnLink" finished-at="2022-07-15T11:12:35 PDT" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLink -->
+        <test-method signature="clickTextBox()[pri:0, instance:selenium.MouseActionsTest@1f0f1111]" started-at="2022-07-15T11:12:35 PDT" name="clickTextBox" finished-at="2022-07-15T11:12:36 PDT" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickTextBox -->
+        <test-method is-config="true" signature="initializeAction()[pri:0, instance:selenium.MouseActionsTest@1f0f1111]" started-at="2022-07-15T11:12:35 PDT" name="initializeAction" finished-at="2022-07-15T11:12:35 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeAction -->
+        <test-method signature="dragAndDrop()[pri:0, instance:selenium.MouseActionsTest@1f0f1111]" started-at="2022-07-15T11:12:36 PDT" name="dragAndDrop" finished-at="2022-07-15T11:12:36 PDT" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDrop -->
+        <test-method is-config="true" signature="initializeAction()[pri:0, instance:selenium.MouseActionsTest@1f0f1111]" started-at="2022-07-15T11:12:36 PDT" name="initializeAction" finished-at="2022-07-15T11:12:36 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeAction -->
+        <test-method signature="enterMouseBox()[pri:0, instance:selenium.MouseActionsTest@1f0f1111]" started-at="2022-07-15T11:12:36 PDT" name="enterMouseBox" finished-at="2022-07-15T11:12:36 PDT" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterMouseBox -->
+        <test-method is-config="true" signature="initializeAction()[pri:0, instance:selenium.MouseActionsTest@1f0f1111]" started-at="2022-07-15T11:12:36 PDT" name="initializeAction" finished-at="2022-07-15T11:12:36 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeAction -->
+        <test-method signature="mouseHover()[pri:0, instance:selenium.MouseActionsTest@1f0f1111]" started-at="2022-07-15T11:12:36 PDT" name="mouseHover" finished-at="2022-07-15T11:12:36 PDT" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseHover -->
+        <test-method is-config="true" signature="initializeAction()[pri:0, instance:selenium.MouseActionsTest@1f0f1111]" started-at="2022-07-15T11:12:36 PDT" name="initializeAction" finished-at="2022-07-15T11:12:36 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeAction -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:selenium.MouseActionsTest@1f0f1111]" started-at="2022-07-15T11:12:36 PDT" name="closeDown" finished-at="2022-07-15T11:12:37 PDT" duration-ms="579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+      </class> <!-- selenium.MouseActionsTest -->
+    </test> <!-- Mouse Actions Test -->
+    <test started-at="2022-07-15T11:12:42 PDT" name="Keyboard Keys Test" finished-at="2022-07-15T11:12:48 PDT" duration-ms="5717">
+      <class name="selenium.KeysText">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:selenium.KeysText@34b7ac2f]" started-at="2022-07-15T11:12:42 PDT" name="initializeDriver" finished-at="2022-07-15T11:12:47 PDT" duration-ms="4596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method is-config="true" signature="initializeInputBox()[pri:0, instance:selenium.KeysText@34b7ac2f]" started-at="2022-07-15T11:12:47 PDT" name="initializeInputBox" finished-at="2022-07-15T11:12:47 PDT" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeInputBox -->
+        <test-method signature="fillTextBox()[pri:0, instance:selenium.KeysText@34b7ac2f]" started-at="2022-07-15T11:12:47 PDT" name="fillTextBox" finished-at="2022-07-15T11:12:47 PDT" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillTextBox -->
+        <test-method is-config="true" signature="clearTextBox()[pri:0, instance:selenium.KeysText@34b7ac2f]" started-at="2022-07-15T11:12:47 PDT" name="clearTextBox" finished-at="2022-07-15T11:12:47 PDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearTextBox -->
+        <test-method is-config="true" signature="initializeInputBox()[pri:0, instance:selenium.KeysText@34b7ac2f]" started-at="2022-07-15T11:12:47 PDT" name="initializeInputBox" finished-at="2022-07-15T11:12:47 PDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeInputBox -->
+        <test-method signature="keyDown()[pri:0, instance:selenium.KeysText@34b7ac2f]" started-at="2022-07-15T11:12:47 PDT" name="keyDown" finished-at="2022-07-15T11:12:47 PDT" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keyDown -->
+        <test-method is-config="true" signature="clearTextBox()[pri:0, instance:selenium.KeysText@34b7ac2f]" started-at="2022-07-15T11:12:47 PDT" name="clearTextBox" finished-at="2022-07-15T11:12:47 PDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearTextBox -->
+        <test-method is-config="true" signature="initializeInputBox()[pri:0, instance:selenium.KeysText@34b7ac2f]" started-at="2022-07-15T11:12:47 PDT" name="initializeInputBox" finished-at="2022-07-15T11:12:47 PDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeInputBox -->
+        <test-method signature="keyUp()[pri:0, instance:selenium.KeysText@34b7ac2f]" started-at="2022-07-15T11:12:47 PDT" name="keyUp" finished-at="2022-07-15T11:12:47 PDT" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keyUp -->
+        <test-method is-config="true" signature="clearTextBox()[pri:0, instance:selenium.KeysText@34b7ac2f]" started-at="2022-07-15T11:12:47 PDT" name="clearTextBox" finished-at="2022-07-15T11:12:47 PDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearTextBox -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:selenium.KeysText@34b7ac2f]" started-at="2022-07-15T11:12:47 PDT" name="closeDown" finished-at="2022-07-15T11:12:48 PDT" duration-ms="566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+      </class> <!-- selenium.KeysText -->
+    </test> <!-- Keyboard Keys Test -->
+  </suite> <!-- Suite -->
+</testng-results>
