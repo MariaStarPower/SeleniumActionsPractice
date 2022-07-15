@@ -1,7 +1,7 @@
 # Selenium Actions Practice
 
 This is a Maven project utilizing Selenium WebDriver with Java for automated testing of mouse movements and keyboard actions.
-The tests are designed with the TestNG framework.
+The tests are created with the TestNG framework.
 
 This is the site used for testing the mouse movement actions - https://www.selenium.dev/selenium/web/mouse_interaction.html.
 
